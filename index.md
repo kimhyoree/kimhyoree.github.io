@@ -4,7 +4,7 @@ layout: homepage
 
 ## Welcome!
 
-I am Hyoree Kim, a senior undergraduate student in the **School of AI Convergence** at **Sungshin Women's University**, Seoul, Korea. I am passionate about bridging **artificial intelligence** and **medicine** — building intelligent systems that assist clinicians and improve patient outcomes.
+I am Hyoree Kim, a recent graduate of the **School of AI Convergence** at **Sungshin Women's University**, Seoul, Korea. I am passionate about bridging **artificial intelligence** and **medicine** — building intelligent systems that assist clinicians and improve patient outcomes.
 
 My research spans **medical image analysis**, **computational pathology**, and **computer vision**, with hands-on experience in whole slide image (WSI) analysis, transfer learning with pathology foundation models, and multimodal learning. I have had the privilege of working as a research intern at **Seoul National University Hospital (BMI Lab)** and the **Korea Institute of Science and Technology (KIST)**.
 
