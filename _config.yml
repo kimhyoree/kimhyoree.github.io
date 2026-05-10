@@ -1,0 +1,45 @@
+# Basic Information 
+title: Hyoree Kim
+position: B.S. Student
+affiliation: Sungshin Women's University
+email: rlagyfl1212 (at) gmail.com
+
+# Search Engine Optimization (SEO)
+keywords: Hyoree Kim, Medical AI, Computer Vision, Computational Pathology, Sungshin Women's University
+description: Hyoree Kim is an undergraduate researcher in Medical AI, Computer Vision, and Computational Pathology at Sungshin Women's University.
+canonical: https://hyoreekim.github.io/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+# google_scholar: https://scholar.google.com/
+# cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/hyoreekim
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
+
+# Auto Dark Mode
+auto_dark_mode: true
+
+# Font
+font: "Sans Serif"
+
+# Use this project as a remote theme for GitHub Pages
+remote_theme: yaoyao-liu/minimal-light
+
+plugins:
+  - jekyll-remote-theme
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
