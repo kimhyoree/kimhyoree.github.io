@@ -1,12 +1,5 @@
-# hyoreekim.github.io
+# kimhyoree.github.io
 
-Personal academic homepage built with [Minimal Light](https://github.com/yaoyao-liu/minimal-light) Jekyll theme.
+Hyoree Kim's personal academic homepage.
 
-## Local Development
-
-```bash
-bundle install
-bundle exec jekyll serve
-```
-
-Then visit `http://localhost:4000`.
+🔗 [https://kimhyoree.github.io](https://kimhyoree.github.io)
