@@ -1,4 +1,6 @@
 ## Research Experience
+- **May 2026 – Present:** Researcher, Seoul National University Hospital, Biomedical Intelligence Laboratory (BiLab)
+  Medical AI research.
 
 - **Sep. 2025 – Feb. 2026:** Research Intern, **Seoul National University Hospital, BMI Lab** (Advisor: Prof. Kwang-soo Kim)
   <br/>Computational pathology research on WSI analysis — IHC tissue segmentation for immune cell quantification and H&E-based toxicologic pathology screening using foundation model transfer learning.
