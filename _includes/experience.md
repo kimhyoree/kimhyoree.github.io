@@ -1,5 +1,5 @@
 ## Research Experience
-- **May 2026 – Present:** Researcher, Seoul National University Hospital, Biomedical Intelligence Laboratory (BiLab)
+- **May. 2026 – Present:** Researcher, Seoul National University Hospital, Biomedical Intelligence Laboratory (BiLab)
   Medical AI research.
 
 - **Sep. 2025 – Feb. 2026:** Research Intern, **Seoul National University Hospital, BMI Lab** (Advisor: Prof. Kwang-soo Kim)
