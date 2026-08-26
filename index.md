@@ -4,7 +4,7 @@ layout: homepage
 
 ## Welcome!
 
-I am Hyoree Kim, a researcher at the **Seoul National University Hospital, Department of Radiology, Biomedical Intelligence Laboratory (BiLab)**, Seoul, Republic of Korea. I am passionate about bridging **artificial intelligence** and **medicine**, building intelligent systems that assist clinicians and improve patient outcomes.
+I am Hyoree Kim, a researcher at the **Seoul National University Hospital, Department of Radiology, Biomedical Intelligence Laboratory (BiLab)**, Seoul, Republic of Korea. My work sits at the intersection of **artificial intelligence** and **medicine**.
 
 My research spans **radiology AI**, **agentic AI**, and **computational pathology**, with hands-on experience in medical image analysis, whole slide image (WSI) analysis, transfer learning with foundation models, and multimodal learning.
 
