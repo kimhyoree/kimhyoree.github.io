@@ -1,7 +1,7 @@
 ## Research Experience
 
 - **May. 2026 – Present:** Researcher, **Seoul National University Hospital**, Department of Radiology, Biomedical Intelligence Laboratory (BiLab)
-  <br/>Medical imaging AI research on diagnostic image analysis and multimodal learning.
+  <br/>Medical imaging AI research in radiology.
 
 - **Sep. 2025 – Feb. 2026:** Research Intern, **Seoul National University Hospital**, BMI Lab
   <br/>Computational pathology research on whole slide image analysis, including tissue segmentation and screening with foundation model transfer learning.
