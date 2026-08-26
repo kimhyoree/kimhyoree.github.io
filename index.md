@@ -10,9 +10,9 @@ At BiLab, I work on **medical imaging AI** for radiology, with a focus on buildi
 
 ## Research Interests
 
-- **Radiology AI**
+- **Medical Imaging**
 - **Agentic AI**
-- **Computational Pathology**
+- **Vision-Language Models**
 
 {% include_relative _includes/projects.md %}
 
