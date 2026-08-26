@@ -1,9 +1,10 @@
 ## Research Experience
-- **May. 2026 – Present:** Researcher, Seoul National University Hospital, Biomedical Intelligence Laboratory (BiLab)
-  Medical AI research.
 
-- **Sep. 2025 – Feb. 2026:** Research Intern, **Seoul National University Hospital, BMI Lab** (Advisor: Prof. Kwang-soo Kim)
-  <br/>Computational pathology research on WSI analysis — IHC tissue segmentation for immune cell quantification and H&E-based toxicologic pathology screening using foundation model transfer learning.
+- **May. 2026 – Present:** Researcher, **Seoul National University Hospital**, Department of Radiology, Biomedical Intelligence Laboratory (BiLab)
+  <br/>Medical imaging AI research on diagnostic image analysis and multimodal learning.
+
+- **Sep. 2025 – Feb. 2026:** Research Intern, **Seoul National University Hospital**, BMI Lab
+  <br/>Computational pathology research on whole slide image analysis, including tissue segmentation and screening with foundation model transfer learning.
 
 - **Jun. 2023 – Dec. 2023:** Research Intern, **Korea Institute of Science and Technology (KIST)**, Bionics Research Division, AIMI Lab
   <br/>Developed medical diagnostic assistance algorithms, focusing on enhancing accuracy and efficiency of clinical decision-making through data analysis and deep learning.
@@ -13,7 +14,7 @@
 
 ## Education
 
-- **Mar. 2020 – Feb. 2026:** B.S. in AI Convergence, **Sungshin Women's University**, Seoul, Korea (GPA: 4.0 / 4.5)
+- **Mar. 2020 – Feb. 2026:** B.S. in AI Convergence, **Sungshin Women's University**, Seoul, Korea (GPA: 4.03 / 4.5)
 
 ## Awards & Honors
 
