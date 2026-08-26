@@ -1,13 +1,13 @@
 # Basic Information 
 title: Hyoree Kim
 position: Researcher
-affiliation: Biomedical Intelligence Laboratory (BiLab), Department of Radiology, Seoul National University Hospital
+affiliation: Seoul National University Hospital, Department of Radiology, Biomedical Intelligence Laboratory (BiLab)
 email: rlagyfl1212 (at) gmail.com
 
 # Search Engine Optimization (SEO)
-keywords: Hyoree Kim, Medical AI, Computer Vision, Computational Pathology, Sungshin Women's University
-description: Hyoree Kim is an undergraduate researcher in Medical AI, Computer Vision, and Computational Pathology at Sungshin Women's University.
-canonical: https://hyoreekim.github.io/
+keywords: Hyoree Kim, Medical AI, Radiology AI, Agentic AI, Computational Pathology, Seoul National University Hospital
+description: Hyoree Kim is a researcher in medical imaging AI at the Biomedical Intelligence Laboratory (BiLab), Department of Radiology, Seoul National University Hospital.
+canonical: https://kimhyoree.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -33,7 +33,6 @@ font: "Sans Serif"
 
 # Use this project as a remote theme for GitHub Pages
 remote_theme: yaoyao-liu/minimal-light
-
 plugins:
   - jekyll-remote-theme
 
